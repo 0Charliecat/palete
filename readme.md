@@ -8,4 +8,4 @@ Slovak_Cat
 dlabaja
 
 #### Do you want to help us?
-![Discord Shield](https://discordapp.com/api/guilds/734807226325270548/widget.png?style=shield)
+![[Discord Shield](https://discordapp.com/api/guilds/734807226325270548/widget.png?style=shield) ](https://discord.gg/pmPHs8g)
