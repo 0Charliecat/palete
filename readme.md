@@ -9,3 +9,6 @@ dlabaja
 
 #### Do you want to help us?
 ![Discord Shield](https://discordapp.com/api/guilds/734807226325270548/widget.png?style=shield)[https://discord.gg/pmPHs8g](https://discord.gg/pmPHs8g)
+
+
+##### This project is fuly open source and you can use all color pics. Website is not open source but all future apps are.
